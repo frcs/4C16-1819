@@ -44,6 +44,15 @@ handouts and videos from last year an be found [here](https://frcs.github.io/4C1
 
 ## labs
 
+It is recommended to students to refresh their knowledge of Python 3
+prior to starting 4C16. Some useful resources are listed in the
+document below:
+
+* [Python 3 resources ](/handouts/PreparationPython3.pdf)
+
+Hugh Denman's slides about python 3 and the 4C16 lab system is
+available here:
+
 * [pdf slides (intro)](/handouts/python_lab.no_notes.pdf)
 
 ## 00 - Introduction
