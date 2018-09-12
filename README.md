@@ -62,7 +62,6 @@ available here:
 ## 01 - Linear Regression/Least Squares
 
 * [pdf slides](/handouts/handout-01-linear-regression.pdf)
-* [video (lecture 12/09/2018)](https://youtu.be/BKVqOmpYjas)
-
+* [![video (lecture 12/09/2018)](https://img.youtube.com/vi/BKVqOmpYjas/0.jpg)](https://www.youtube.com/watch?v=BKVqOmpYjas "video (lecture 12/09/2018)")
 
 
