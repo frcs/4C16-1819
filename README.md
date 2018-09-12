@@ -50,6 +50,10 @@ handouts and videos from last year an be found [here](https://frcs.github.io/4C1
 
 * [pdf slides](/handouts/handout-00-intro.pdf)
 
+## 01 - Linear Regression/Least Squares
+
+* [pdf slides](/handouts/handout-01-linear-regression.pdf)
+
 
 
 
