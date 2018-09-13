@@ -63,5 +63,10 @@ available here:
 
 * [pdf slides](/handouts/handout-01-linear-regression.pdf)
 * [video (lecture 12/09/2018)](https://youtu.be/BKVqOmpYjas)
+* no video for lecture 13/09/2018
+
+## 02 - Logistic Regression
+
+* [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 
 
