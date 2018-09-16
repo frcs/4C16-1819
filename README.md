@@ -1,7 +1,7 @@
-# EE4C16
+# 4C16
 
-EE4C16 is course on Machine Learning (ML), with a focus on
-Deep Learning.  It is a fourth and fifth year module offered by the [Electronic &
+4C16/5C16 is course on Machine Learning (ML), with a focus on
+Deep Learning. It is a fourth and fifth year module offered by the [Electronic &
 Electrical Engineering](https://www.tcd.ie/eleceng/) department to the
 undergraduate students of [Trinity College Dublin](https://www.tcd.ie).
 
@@ -64,9 +64,12 @@ available here:
 * [pdf slides](/handouts/handout-01-linear-regression.pdf)
 * [video (lecture 12/09/2018)](https://youtu.be/BKVqOmpYjas)
 * no video for lecture 13/09/2018
+* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf)
+* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf)
 
 ## 02 - Logistic Regression
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
+
 
 
