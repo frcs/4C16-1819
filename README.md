@@ -66,6 +66,7 @@ available here:
 * no video for lecture 13/09/2018
 * [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf)
 * [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf)
+* [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
 
 ## 02 - Logistic Regression
 
