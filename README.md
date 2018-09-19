@@ -53,7 +53,11 @@ document below:
 Hugh Denman's slides about python 3 and the 4C16 lab system is
 available here:
 
-* [pdf slides (intro)](/handouts/python_lab.no_notes.pdf)
+* [pdf slides about lab system (intro)](/handouts/python_lab.no_notes.pdf)
+
+George Sterpu is compiling a list of frequently asked questions & answers on his webpage:
+* [F.A.Q.](https://georgesterpu.github.io/4c16.html)
+
 
 ## 00 - Introduction
 
