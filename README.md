@@ -1,7 +1,7 @@
-# EE4C16
+# 4C16
 
-EE4C16 is course on Machine Learning (ML), with a focus on
-Deep Learning.  It is a fourth and fifth year module offered by the [Electronic &
+4C16/5C16 is course on Machine Learning (ML), with a focus on
+Deep Learning. It is a fourth and fifth year module offered by the [Electronic &
 Electrical Engineering](https://www.tcd.ie/eleceng/) department to the
 undergraduate students of [Trinity College Dublin](https://www.tcd.ie).
 
@@ -53,7 +53,11 @@ document below:
 Hugh Denman's slides about python 3 and the 4C16 lab system is
 available here:
 
-* [pdf slides (intro)](/handouts/python_lab.no_notes.pdf)
+* [pdf slides about lab system (intro)](/handouts/python_lab.no_notes.pdf)
+
+George Sterpu is compiling a list of frequently asked questions & answers on his webpage:
+* [F.A.Q.](https://georgesterpu.github.io/4c16.html)
+
 
 ## 00 - Introduction
 
@@ -64,6 +68,9 @@ available here:
 * [pdf slides](/handouts/handout-01-linear-regression.pdf)
 * [video (lecture 12/09/2018)](https://youtu.be/BKVqOmpYjas)
 * no video for lecture 13/09/2018
+* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf)
+* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf)
+* [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
 
 ## 02 - Logistic Regression
 
@@ -72,5 +79,6 @@ available here:
 ## 03 - Know your classics (k-NN, Decision Trees, SVM and Kernel Trick)
 
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
+
 
 
