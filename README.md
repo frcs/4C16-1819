@@ -69,4 +69,8 @@ available here:
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 
+## 03 - Know your classics (k-NN, Decision Trees, SVM and Kernel Trick)
+
+* [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
+
 
