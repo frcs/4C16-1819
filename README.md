@@ -75,10 +75,14 @@ George Sterpu is compiling a list of frequently asked questions & answers on his
 ## 02 - Logistic Regression
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
+* [video (lecture 24/09/2018)](https://youtu.be/K1WskVKmmVI)
 
-## 03 - Know your classics (k-NN, Decision Trees, SVM and Kernel Trick)
+
+## 03 - Know your classics
+
+k-NN, Decision Trees, SVM and Kernel Trick
 
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
-* [video (lecture 24/09/2018)](https://youtu.be/47sKa5o5hxU)
-
+* [video (lecture 24/09/2018)](https://youtu.be/DVMM8CcrBqE)
+* [video about the Kernel Trick](https://youtu.be/aopHnnahrMI)
 
