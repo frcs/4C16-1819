@@ -86,3 +86,7 @@ k-NN, Decision Trees, SVM and Kernel Trick
 * [video (lecture 24/09/2018)](https://youtu.be/DVMM8CcrBqE)
 * [video about the Kernel Trick](https://youtu.be/aopHnnahrMI)
 
+## 04 - Comparing Classifiers
+* [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
+
+
