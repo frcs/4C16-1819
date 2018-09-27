@@ -77,7 +77,6 @@ George Sterpu is compiling a list of frequently asked questions & answers on his
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 * [video (lecture 24/09/2018)](https://youtu.be/K1WskVKmmVI)
 
-
 ## 03 - Know your classics
 
 k-NN, Decision Trees, SVM and Kernel Trick
@@ -88,5 +87,6 @@ k-NN, Decision Trees, SVM and Kernel Trick
 
 ## 04 - Comparing Classifiers
 * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
+* [video (lecture 26/09/2018)](https://youtu.be/mH35PPUSmVE)
 
 
