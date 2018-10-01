@@ -88,9 +88,7 @@ k-NN, Decision Trees, SVM and Kernel Trick
 ## 04 - Comparing Classifiers
 * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
 * [video (lecture 26/09/2018)](https://youtu.be/mH35PPUSmVE)
+* [pdf tutorial](/handouts/tutorial-04-classifiers-evaluation.pdf)
 
 ## 05 - FeedForward Neural Networks
 * [pdf slides](/handouts/handout-05-deep-feedforward-networks.pdf)
-
-
-
