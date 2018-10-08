@@ -58,7 +58,6 @@ available here:
 George Sterpu is compiling a list of frequently asked questions & answers on his webpage:
 * [F.A.Q.](https://georgesterpu.github.io/4c16.html)
 
-
 ## 00 - Introduction
 
 * [pdf slides](/handouts/handout-00-intro.pdf)
@@ -98,5 +97,7 @@ k-NN, Decision Trees, SVM and Kernel Trick
 
 ## 06 - Convolutional Neural Networks
 * [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
+* [video (lecture 08/10/2018)](https://youtu.be/nbcpeb6mpfk)
+
 
 
