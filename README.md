@@ -104,3 +104,8 @@ k-NN, Decision Trees, SVM and Kernel Trick
 ## 07 - Advances in Network Architectures 
 * [pdf slides](/handouts/handout-07-advances-in-network-architectures.pdf)
 * [video (lecture 18/10/2018)](https://youtu.be/yy8nYn1zvco)
+
+## 08 - Text Processing
+* [pdf slides](/handouts/handout-08-text-processing.pdf)
+
+
