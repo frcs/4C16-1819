@@ -107,5 +107,7 @@ k-NN, Decision Trees, SVM and Kernel Trick
 
 ## 08 - Text Processing
 * [pdf slides](/handouts/handout-08-text-processing.pdf)
+* [video (lecture 8/11/2018)](https://youtu.be/sWmaSn_dBkE)
+
 
 
