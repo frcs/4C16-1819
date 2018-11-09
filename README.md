@@ -111,50 +111,32 @@ k-NN, Decision Trees, SVM and Kernel Trick
 
 # Keynotes
 
-<table style="border: 0px">
-  <tr>
-  <td style="width:192px">![pics](pics/PeterBarry.png)</td>
-  <td>
-  <h3>Peter Barry (Jaguar Land Rover)</h3>
-<h4> Automated Driving and AI </h4>
-<p><em>Nov 1st 11-12am, Robert Emmet Theatre, Trinity College Dublin</em></p>
-<p>
+### Peter Barry (Jaguar Land Rover)
+#### Automated Driving and AI
+_Nov 1st 11-12am, Robert Emmet Theatre, Trinity College Dublin_
+
 As Chief Software Architect Autonomous Driving Peter is a seasoned technical leader, with 27 years in development of distributed/embedded computing platforms. He currently leads the software team at Jaguar Landover responsibility for bringing Level 4 autonomy to Jaguar Landover’s products. Prior to this role, Peter
-was a Senior Principal Engineer at Intel, where he  led the definition and development  of numerous products such as Intel's in vehicle  infotainment platforms and IoT Quark Product line. Peter has published two textbooks and holds 23 patents. </p>
-</td>
-</tr>
-<tr>
-<td style="width:192px">![pics](pics/LindaHogan.png)</td>
-<td>
-<h3>Professor Linda Hogan (TCD)</h3>
-<h4>Ethics of Automation (title to be confirmed)</h4>
-<p><em>Nov 21st 4-5pm, Jonathan Swift Theatre, Trinity College Dublin</em></p>
-<p>Professor Linda Hogan is an ethicist with extensive experience in research and teaching in pluralist and multi-religious contexts. Her primary research interests lie in the fields of inter-cultural and inter-religious ethics, social and political ethics, human rights and gender.
- </p>
-</td>
-</tr>
-<tr>
-<td style="width:192px">![pics](pics/MichaelaBlott.png)</td>
-<td>
-<h3>Michaela Blott (Xilinx)</h3>
-<h4>Machine Learning &amp; FPGAs (title to be confirmed)</h4>
-<p><em>Nov 22nd 11-12am, Robert Emmet Theatre, Trinity College Dublin</em></p>
-<p>Michaela is Principal Engineer and Engineering Director at
+was a Senior Principal Engineer at Intel, where he  led the definition and development  of numerous products such as Intel's in vehicle  infotainment platforms and IoT Quark Product line. Peter has published two textbooks and holds 23 patents.
+
+### Professor Linda Hogan (TCD)
+#### Ethics of Automation (title to be confirmed)
+_Nov 21st 4-5pm, Jonathan Swift Theatre, Trinity College Dublin_
+
+Professor Linda Hogan is an ethicist with extensive experience in research and teaching in pluralist and multi-religious contexts. Her primary research interests lie in the fields of inter-cultural and inter-religious ethics, social and political ethics, human rights and gender.
+
+### Michaela Blott (Xilinx)
+#### Machine Learning &amp; FPGAs (title to be confirmed)
+_Nov 22nd 11-12am, Robert Emmet Theatre, Trinity College Dublin_
+
+Michaela is Principal Engineer and Engineering Director at
 Xilinx Ireland. She has over 20 years industry experience in FPGA and board-level
 design and networking. Her main areas of interest include data
 centers, high-level synthesis tools, high-speed network processing on
-FPGAs (100Gbps and beyond). </p>
-</td>
-</tr>
-<tr>
-<td style="width:192px">![pics](pics/GeorgeToderici.png)</td>
-<td>
-<h3>George Toderici (Google Research)</h3>
-<h4>Recent Advances in Neural Net Architectures (title to be confirmed)</h4>
-<p><em> Nov 28th 5-6pm, Google Offices, Dublin</em></p>
-<p>George Toderici is Tech Lead / Manager at Google. He received his Ph.D. in Computer Science from the University of Houston in 2007 where his research focused on 2D-to-3D face recognition, and joined Google in 2008.
+FPGAs (100Gbps and beyond).
+
+### George Toderici (Google Research)
+#### Recent Advances in Neural Net Architectures (title to be confirmed)
+_Nov 28th 5-6pm, Google Offices, Dublin_
+
+George Toderici is Tech Lead / Manager at Google. He received his Ph.D. in Computer Science from the University of Houston in 2007 where his research focused on 2D-to-3D face recognition, and joined Google in 2008.
  He now leads a team that focuses on creating a new state of the art class of algorithms in the domain of lossy image compression and beyond. Prior to this, he designed deep learning methods for video classification, annotation, embedding models and more.
- </p>
-</td>
-</tr>
-</table>
