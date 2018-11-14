@@ -109,10 +109,12 @@ k-NN, Decision Trees, SVM and Kernel Trick
 ## 08 - Text Processing
 * [pdf slides](/handouts/handout-08-text-processing.pdf)
 * [video (lecture 8/11/2018)](https://youtu.be/sWmaSn_dBkE)
+* [video (lecture 14/11/2018)](https://youtu.be/8TMo1cjkbpo)
 
 ## 09 - RNNs
 * [pdf slides](/handouts/handout-09-recurrent-neural-networks.pdf)
 * [video (lecture 12/11/2018)](https://youtu.be/GzqLp4d8ME8)
+* [video (lecture 14/11/2018)](https://youtu.be/IssSeVi5kw8)
 
 # Keynotes
 
