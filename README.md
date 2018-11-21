@@ -140,7 +140,7 @@ FPGAs (100Gbps and beyond).
 
 ### George Toderici (Google Research)
 #### Recent Advances in Neural Net Architectures (title to be confirmed)
-_Nov 28th 5-6pm, Google Offices, Dublin_
+_Nov 28th 6:30-7:30pm, Google Offices, Dublin_
 
 George Toderici is Tech Lead / Manager at Google. He received his Ph.D. in Computer Science from the University of Houston in 2007 where his research focused on 2D-to-3D face recognition, and joined Google in 2008.
  He now leads a team that focuses on creating a new state of the art class of algorithms in the domain of lossy image compression and beyond. Prior to this, he designed deep learning methods for video classification, annotation, embedding models and more.
