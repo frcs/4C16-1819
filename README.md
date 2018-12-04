@@ -116,6 +116,10 @@ k-NN, Decision Trees, SVM and Kernel Trick
 * [video (lecture 12/11/2018)](https://youtu.be/GzqLp4d8ME8)
 * [video (lecture 14/11/2018)](https://youtu.be/IssSeVi5kw8)
 
+## 10 - Auto-Encoders
+* [video (lecture 22/11/2018)](https://youtu.be/XnKjsoGi1KI)
+* [video (lecture 26/11/2018)](https://youtu.be/BumcOMR5nn4)
+
 # Keynotes
 
 ### Peter Barry (Jaguar Land Rover)
@@ -131,6 +135,9 @@ _Nov 21st 4-5pm, Jonathan Swift Theatre, Trinity College Dublin_
 
 Professor Linda Hogan is an ethicist with extensive experience in research and teaching in pluralist and multi-religious contexts. Her primary research interests lie in the fields of inter-cultural and inter-religious ethics, social and political ethics, human rights and gender.
 
+* [video](https://youtu.be/wr1P0qK_nWA)
+
+
 ### Michaela Blott (Xilinx)
 #### Machine Learning &amp; FPGAs (title to be confirmed)
 _Nov 22nd 11-12am, Robert Emmet Theatre, Trinity College Dublin_
@@ -140,6 +147,7 @@ Xilinx Ireland. She has over 20 years industry experience in FPGA and board-leve
 design and networking. Her main areas of interest include data
 centers, high-level synthesis tools, high-speed network processing on
 FPGAs (100Gbps and beyond).
+
 
 ### George Toderici (Google Research)
 #### Recent Advances in Neural Net Architectures (title to be confirmed)
