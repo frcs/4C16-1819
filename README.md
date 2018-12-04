@@ -148,6 +148,8 @@ design and networking. Her main areas of interest include data
 centers, high-level synthesis tools, high-speed network processing on
 FPGAs (100Gbps and beyond).
 
+* [video](https://youtu.be/kzVvrM7feJQ)
+
 
 ### George Toderici (Google Research)
 #### Recent Advances in Neural Net Architectures (title to be confirmed)
